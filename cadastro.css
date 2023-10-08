@@ -12,7 +12,7 @@
     justify-content: center;
     min-height: 100vh;
     background-image: url('./img/Scorpion2.jfif'); 
-    background-size: 600px 950px;
+    background-size: 720px 1600px;
       
   }
   
@@ -135,7 +135,7 @@
 
     body {
     background-image: url('./img/Scorpion2.jfif'); 
-    background-size: 600px 1050px;
+    background-size: 720px 1600px;
         
     }
 
@@ -161,7 +161,7 @@
 
     body {
     background-image: url('./img/Scorpion2.jfif'); 
-    background-size: 800px 1050px;
+    background-size: 720px 1600px;
         
     }
 
@@ -183,7 +183,7 @@
     }
   }
   
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 719px) {
 
     body {
       
