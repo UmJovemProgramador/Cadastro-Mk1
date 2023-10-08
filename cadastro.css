@@ -157,11 +157,11 @@
     }
   }
   
-  @media screen and (min-width: 480px) {
+  @media screen and (min-width: 600px) {
 
     body {
     background-image: url('./img/Scorpion2.jfif'); 
-    background-size: 600px 950px;
+    background-size: 770px 950px;
         
     }
 
@@ -183,7 +183,7 @@
     }
   }
   
-  @media screen and (min-width: 598px) {
+  @media screen and (min-width: 768px) {
 
     body {
       
