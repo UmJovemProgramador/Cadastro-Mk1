@@ -130,12 +130,12 @@
   .completed {
     text-decoration: line-through;
   }
-  
-  @media screen and (min-width: 480px) {
+
+  @media screen and (min-width: 370px) {
 
     body {
-    background-image: url('./img/mk1.png'); 
-    background-size: 1900px 1000px;
+    background-image: url('./img/Scorpion2.jfif'); 
+    background-size: 600px 950px;
         
     }
 
@@ -157,7 +157,33 @@
     }
   }
   
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: 480px) {
+
+    body {
+    background-image: url('./img/Scorpion2.jfif'); 
+    background-size: 600px 950px;
+        
+    }
+
+    .container {
+      width: 70%;
+    }
+  
+    .new-task-container input {
+      margin-bottom: 10px;
+    }
+
+    .new-task-button {
+      background-color: #686868;
+      
+    }
+  
+    .new-task-button:hover {
+      background-color: rgb(53, 53, 53);
+    }
+  }
+  
+  @media screen and (min-width: 598px) {
 
     body {
       
